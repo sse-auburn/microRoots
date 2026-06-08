@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/microRoots_logo.png" width="420">
+  <img src="microRoots_logo_512.png" width="420">
 </p>
-
 
 # microRoots
 
