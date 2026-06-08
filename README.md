@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/microRoots_logo.png" width="420">
+</p>
+
+
 # microRoots
 
 microRoots is a soybean root-hair phenotyping pipeline for microscopy images. It is designed for detection, instance segmentation, and measurement of root-hair traits.
