@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/microRoots_logo.png" width="420">
+  <img src="assets/microRoots.png" width="420">
 </p>
 
 # microRoots
