@@ -1,3 +1,3 @@
 # Measurement Results
 
-This folder is reserved for example measurement CSV files and annotated measurement images.
+The PDF (Converted from Excel Output) file is illustartion of Phenotyping of root hair traits.
