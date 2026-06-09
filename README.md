@@ -8,35 +8,17 @@
 
 1. **YOLOv12x + CBAM** for detecting root-hair (`RH`) and main-stem (`MS`) candidate regions.
 2. **Fine-tuned SAM3** for detector-prompted instance segmentation using YOLO bounding boxes.
-3. **Skeleton-based trait measurement** for extracting main-stem length, root-hair count, root-hair length, root-hair width, and root-hair density.
+3. **Trait measurement** for extracting main-stem length, root-hair count, root-hair length, root-hair width, and root-hair density.
 
 The trained weights are hosted externally on Google Drive and are **not** stored inside this repository.
 
 ---
 
-## Pipeline overview
+## microRoots Pipeline
 
-```text
-Input soybean root-hair microscopy image
-        |
-        v
-YOLOv12x + CBAM detector
-        |
-        v
-Bounding boxes for RH and MS
-        |
-        v
-Fine-tuned SAM3 box-prompted segmentation
-        |
-        v
-Color-coded instance masks + overlay images + metadata JSON
-        |
-        v
-Skeleton-based trait measurement
-        |
-        v
-CSV files with root-hair phenotyping traits
-```
+<p align="center">
+  <img src="assets/micrRoots%20Pipeline.png" alt="microRoots Pipeline" width="750">
+</p>
 
 ---
 
