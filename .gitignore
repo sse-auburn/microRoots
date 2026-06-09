@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+*.egg-info/
+
+# Model weights - do not commit
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+weights/*.pt
+weights/*.pth
+weights/*.ckpt
+weights/*.safetensors
+
+# Data and outputs
+data/
+datasets/
+raw_data/
+raw_images/
+outputs/
+results/
+runs/
+predictions/
+visualizations/
+temp/
+tmp/
+
+# External repositories
+external/
+external/sam3/
+external/SAM3/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
