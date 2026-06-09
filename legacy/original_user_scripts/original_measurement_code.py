@@ -1,9 +1,5 @@
 # ============================================================
-# FINAL MEASUREMENT CODE
-# - Main Stem: Best-fit line to image edges
-#   - If root hairs exist: measure on root hair side
-#   - If NO root hairs: measure on outer side (longer side of contour)
-# - Root Hairs: Your exact skeleton-based length and width
+# MEASUREMENT CODE
 # ============================================================
 
 import os
