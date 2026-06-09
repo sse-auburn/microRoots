@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/microRoots.png" width="420">
+</p>
+
 # microRoots
 
 **microRoots** is a soybean root-hair phenotyping pipeline that combines:
