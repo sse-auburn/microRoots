@@ -48,4 +48,3 @@ weights/
 └── FinalFT.pt
 ```
 
-Do not commit `.pt`, `.pth`, `.ckpt`, or `.safetensors` files to GitHub.
