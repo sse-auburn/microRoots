@@ -1,6 +1,5 @@
 # ============================================================
-# FINAL YOLOv12 + SAM3 Pipeline for Root Hair Segmentation
-# For Paper:  Complete Implementation (WSL Compatible) - FIXED V2
+# FINAL YOLOv12+CBAM and SAM3 Pipeline for Root Hair Segmentation
 # ============================================================
 
 import sys
