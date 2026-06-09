@@ -1,0 +1,23 @@
+# Core
+numpy
+opencv-python
+Pillow
+matplotlib
+tqdm
+pyyaml
+
+# Deep learning
+torch
+torchvision
+torchaudio
+ultralytics
+
+# Measurement
+scikit-image
+scipy
+networkx
+pandas
+openpyxl
+
+# Google Drive download helper
+gdown

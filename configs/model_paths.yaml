@@ -1,0 +1,8 @@
+# Default model paths for microRoots
+
+yolo_weights: weights/last.pt
+sam3_checkpoint: weights/FinalFT.pt
+
+# Local SAM3 source folder.
+# This should point to the folder that contains the `sam3` Python package.
+sam3_root: external/sam3

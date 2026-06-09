@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "micro-roots"
+version = "0.1.0"
+description = "YOLOv12x-CBAM and fine-tuned SAM3 pipeline for soybean root-hair instance segmentation and trait measurement."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Muhammad Waseem"}
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

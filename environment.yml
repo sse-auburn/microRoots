@@ -1,0 +1,24 @@
+name: microRoots
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pillow
+  - matplotlib
+  - pyyaml
+  - tqdm
+  - pandas
+  - scipy
+  - scikit-image
+  - networkx
+  - pip:
+      - opencv-python
+      - ultralytics
+      - torch
+      - torchvision
+      - torchaudio
+      - openpyxl
+      - gdown

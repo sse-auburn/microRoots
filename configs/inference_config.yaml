@@ -1,0 +1,20 @@
+# Inference settings for microRoots
+
+device: cuda
+
+classes:
+  - RH
+  - MS
+
+yolo:
+  confidence: 0.80
+  iou: 0.70
+  image_size: 1024
+
+sam3:
+  confidence_threshold: 0.90
+
+measurement:
+  conversion_factor_um_per_pixel: 0.495
+  root_hair_width_max_distance_px: 20
+  skeleton_prune_threshold_px: 5
