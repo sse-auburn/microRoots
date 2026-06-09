@@ -1,6 +1,6 @@
 # Original User Scripts
 
-This folder preserves the original working scripts provided during repository preparation.
+This folder has original working scripts author developed and used during research.
 
 These scripts contain WSL-specific and paper-evaluation-specific paths, so they are kept for reference only.
 
