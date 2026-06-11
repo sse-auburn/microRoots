@@ -14,10 +14,6 @@
 **microRoots** is a soybean root-hair phenotyping framework that converts microscopy images into quantitative, instance-level root-hair traits.
 
 
-
-
-The trained weights are hosted externally on Google Drive.
-
 ---
 
 ## microRoots Pipeline
@@ -72,6 +68,7 @@ microRoots/
 
 ## Required model weights
 
+The trained weights are hosted externally on Google Drive.
 Download both files from Google Drive and place them in the `weights/` folder.
 
 | Model | Required file name | Purpose |
